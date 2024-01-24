@@ -19,9 +19,9 @@ export default function Work() {
         <div className="text-[10px] absolute bottom-8 left-[100px]">10</div>
       </div>
       <div className="inline-flex gap-[20px] mt-[50px] overflow-hidden">
-        <div className="w-[480px] h-[270px] bg-gray-500 flex justify-center items-center">anjas</div>
-        <div className="w-[480px] h-[270px] bg-gray-500 flex justify-center items-center">anjas</div>
-        <div className="w-[480px] h-[270px] bg-gray-500 flex justify-center items-center">anjas</div>
+        <div className="w-[480px] h-[270px] bg-gray-500 flex justify-center items-center"></div>
+        <div className="w-[480px] h-[270px] bg-gray-500 flex justify-center items-center"></div>
+        <div className="w-[480px] h-[270px] bg-gray-500 flex justify-center items-center"></div>
       </div>
 
       <div className="self-center mt-[50px] text-3xl max-w-[300px] font-medium text-center">
